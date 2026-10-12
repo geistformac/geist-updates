@@ -5,6 +5,8 @@
   <img src=".github/assets/geist-unlock-light.webp" alt="Geist unlocking a Mac from the notch" width="760">
 </picture>
 
+<br /><br />
+
 <p><b>Unlocking your Mac is one glance away.</b><br />
 Geist brings effortless face unlock to your Mac.</p>
 
@@ -12,7 +14,7 @@ Geist brings effortless face unlock to your Mac.</p>
   <img alt="Download Geist" src="https://img.shields.io/badge/Download%20Geist-18181B?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
-<br /><br />
+<br />
 
 [Website](https://geistformac.app) &nbsp;·&nbsp; [Releases](https://github.com/burakugurelli/geist-releases/releases) &nbsp;·&nbsp; [Support](https://github.com/burakugurelli/geist-releases/issues)
 
