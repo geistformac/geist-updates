@@ -10,13 +10,13 @@
 <p><b>Unlocking your Mac is one glance away.</b><br />
 Geist brings effortless face unlock to your Mac.</p>
 
-<a href="https://github.com/burakugurelli/geist-releases/releases">
+<a href="https://github.com/geistformac/geist-updates/releases">
   <img alt="Download Geist" src="https://img.shields.io/badge/Download%20Geist-18181B?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
 <br />
 
-[Website](https://geistformac.app) &nbsp;·&nbsp; [Releases](https://github.com/burakugurelli/geist-releases/releases) &nbsp;·&nbsp; [Support](https://github.com/burakugurelli/geist-releases/issues)
+[Website](https://geistformac.app) &nbsp;·&nbsp; [Releases](https://github.com/geistformac/geist-updates/releases) &nbsp;·&nbsp; [Support](https://github.com/geistformac/geist-updates/issues)
 
 </div>
 
